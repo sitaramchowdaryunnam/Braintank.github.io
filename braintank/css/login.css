@@ -1,0 +1,43 @@
+*{
+ padding: 0;
+ margin: 0;
+ 
+}
+body{
+    background: red;
+}
+.row{
+    background: rgb(248, 245, 245);
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px rgb(146, 141, 141);
+}
+img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.btn1{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 4px;
+    font-weight: bold;
+}
+.btn1:hover{
+    background:white ;
+    border: 1px solid;
+    color: black;
+}
+.container{
+    padding-top: 35px;
+}
+.Form,.container{
+    background-color: red;
+}
+.ram{
+    padding-top: 30px;
+   color: whitesmoke;
+   background-color: red;
+}

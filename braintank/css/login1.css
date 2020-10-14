@@ -1,0 +1,23 @@
+body {  
+    background-image: url("login.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main {
+    padding: 0px 10px;
+    margin-left: 40%;
+    
+}
+.login-form{
+    margin-top: 70%;
+    border-right: 2px;
+}
+.form-check{
+    padding-bottom: 6px;
+    padding-right: 10px;
+}
+.btn-black{
+    background-color: #000 !important;
+    color: #fff;
+}
